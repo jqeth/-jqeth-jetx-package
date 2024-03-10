@@ -1,5 +1,5 @@
 {
-  "name": "jetx-package",
+  "name": "@jqeth/jetx-package",
   "version": "1.2.3",
   "scripts": {
     "dev": "next dev",
